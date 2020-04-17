@@ -4,7 +4,7 @@ O site apresenta um formulário, onde é possível buscar informações de usuá
 
 ### Processo de instalação
 
-GitHub Info requere as seguintes dependências: 
+GitHub Info requere as seguintes dependências:
  - [Node.js](https://nodejs.org/)
  - [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 
